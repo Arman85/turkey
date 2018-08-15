@@ -1,0 +1,129 @@
+p.days_desc_text{
+	height: 80px;
+	overflow: hidden;
+}
+
+span.myread_more1,
+span.myread_more3,
+span.myread_more4,
+span.myread_more5,
+span.myread_more6,
+span.myread_more7{
+	cursor: pointer;
+}
+
+.moto-widget-menu-item a.moto-widget-menu-link{
+	font-weight: bold !important;
+}
+
+.mynavigation{
+	background-color: rgba(255,255,255, .5); border-radius: 5px;
+}
+
+.sendingmail{
+	position: relative;
+    text-align: center;
+    z-index: 1;
+    -webkit-backface-visibility: hidden;
+    transition: .3s;
+    line-height: 22px;
+    border: none;
+    border-radius: 35px;
+    letter-spacing: 1px;
+
+    font-size: 14px;
+    padding: 17px 10px;
+    min-width: 180px;
+
+    box-shadow: 0px 10px 25px 0px rgba(0,0,0,0.08);
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    background-color: #ffffff;
+
+    color: #282434;
+}
+
+.sendingmail:hover{
+	color: #ffffff;
+    background-color: #282434;
+    border-color: #282434;
+}
+
+.eTimer{
+	width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+
+.my_price,
+.my_price1,
+.my_price2{
+	color: #F6B230;
+}
+
+.moto-text_system_5 a.a-discount{
+	text-decoration: line-through solid !important;
+	color: red;
+}
+
+.discount{
+	color: white;
+	font-size: 3.5rem;
+}
+
+.discount2{
+	color: white;
+	font-size: 4rem;
+}
+
+.discount3{
+	color: red;
+	text-decoration: line-through;
+}
+
+.mymoto-color5_5{
+	font-size: 2rem;
+}
+
+/*mobile*/
+
+@media (max-width: 991.98px) {
+	div.mynavigation{
+		background-color: initial;
+		border-radius: initial;
+	}
+
+	div.moto-widget a.moto-widget-image-link img.mylogo{
+		width: 60%;
+	}
+
+	p.days_desc_text{
+		height: 70px;
+	}
+
+	div.flag{
+		background-position: -215px !important;
+	}
+
+	span.discount,
+	span.discount2{
+		font-size: 2rem;
+	}
+
+	.my_price{
+		text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;
+	}
+
+	.myfooter{
+		height: 50px !important
+	}
+
+	span.mymoto-color5_5{
+		font-size: 1.5rem;
+	}
+}
