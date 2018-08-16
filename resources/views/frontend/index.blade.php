@@ -544,7 +544,7 @@
         <img src="{{ asset('images/turkey/05-turkey-istanbul-dervishes.jpg')}}" alt="05-turkey-istanbul-dervishes.jpg" class="moto-widget-grid-gallery-image mygallery-img" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
           <div class="caption caption_html moto-widget-text ">
             <p class="moto-text_system_7">
-              <span class="moto-color5_5">The Grenadines</span>
+              <span class="moto-color5_5">Турция</span>
             </p>
           </div>
       </a>
@@ -552,11 +552,11 @@
     </div>
     <div class="col-lg-6">
       @foreach( $hotels as $hotel )
-      <a  href="images/turkey/gallery/turkia/{{$hotel->img}}" class="moto-widget-grid-gallery-item" data-lightbox="roadtrip">
-        <img src="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-small1.jpg" alt="mt-1320-home-destination-small1.jpg" class="moto-widget-grid-gallery-image mygallery-img" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
+      <a  href="images/turkey/gallery/hotels/{{$hotel->img}}" class="moto-widget-grid-gallery-item" data-lightbox="roadtrip" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
+        <img src="{{ asset('images/turkey/gallery/hotels/01-hotel.jpg')}}" alt="01-hotel.jpg" class="moto-widget-grid-gallery-image mygallery-img" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
           <div class="caption caption_html moto-widget-text ">
             <p class="moto-text_system_7">
-              <span class="moto-color5_5">The Hotels</span>
+              <span class="moto-color5_5">Отели</span>
             </p>
           </div>
       </a>
