@@ -47,7 +47,8 @@
   </div></div>
           </div>
       </div>
-  </div><div class="moto-widget moto-widget-block moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image=""><a class="moto-anchor" name="pricing"></a>
+  </div>
+  <div class="moto-widget moto-widget-block moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto small-padding" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image=""><a class="moto-anchor" name="pricing"></a>
       
       <div class="container-fluid">
           <div class="row">
@@ -85,8 +86,30 @@
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa" data-animation="">
       <div class="moto-widget-text-content moto-widget-text-editable">
-        <p class="moto-text_system_7 days_desc_text" id="mydays_desc1"><span style="border-bottom: 2px solid #f6b230">День первый - второй</span> <br> Прилет в аэропорт Стамбула. Приветственный инфо-коктейль. Трансфер в отель. Ночлег в Стамбуле.</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span></span>&nbsp; Стамбул / Турция</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span>&nbsp; </span>2 дня</p></div>
-  </div><div class="moto-widget moto-widget-row moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto" data-grid-type="xs" data-widget="row" data-spacing="sama" style="">
+        <p class="moto-text_system_7 days_desc_text" id="mydays_desc1">
+          <span style="border-bottom: 2px solid #f6b230">День первый - второй</span> 
+          <br> Наш увлекательный тур начинается с прилёта в Стамбул, после мягкой посадки Вас ожидает приветственный инфо-коктейль. Далее мы отправляемся в отель на ночлег.
+          <br>
+          Следующий день начинается с завтрака, после чего мы посетим Ипподром на площади, где находятся три античных монумента, привезенных в Константинополь 
+          из разных концов света: Египетский обелиск, Змеиную колону, Колону Константина Богрянного. Далее мы отправимся к Мечети Султана Сулеймана, что
+          была возведена в середине 16 века по приказу турецкого султана Сулеймана I Великолепного! Как насчёт Христианского шедевра – собор Святой Софии, 
+          который более 400 лет являлся Исламской Мечетью? Его мы тоже посетим, после чего у Вас будет возможность совершить прогулку по Босфорскому проливу на катере,
+          насыщенный день в Стамбуле заканчивает ночлегом в Стамбуле. У Вас будет время насладится красотами ночного Стамбула!
+        </p>
+        <p class="moto-text_normal">&nbsp;</p>
+        <p class="moto-text_system_13">
+          <span class="moto-color2_3">
+            <span class="fa fa-fw"></span>
+          </span>&nbsp; Стамбул / Турция
+        </p>
+        <p class="moto-text_system_13">
+          <span class="moto-color2_3">
+            <span class="fa fa-fw"></span>&nbsp; 
+          </span>2 дня
+        </p>
+      </div>
+  </div>
+  <div class="moto-widget moto-widget-row moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-medium moto-spacing-left-auto" data-grid-type="xs" data-widget="row" data-spacing="sama" style="">
       
       <div class="container-fluid">
           <div class="row" data-container="container">
@@ -128,7 +151,10 @@
           
               <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa" data-animation="">
       <div class="moto-widget-text-content moto-widget-text-editable">
-        <p class="moto-text_system_7 days_desc_text" id="mydays_desc3"><span style="border-bottom: 2px solid #f6b230">День третий</span> <br> Завтрак в отеле. Выезд в сторону пролива Дарданеллы до Гелиболу. Переезд на пароме с Европейской стороны в Азиатскую провинцию Чанаккале, где разворачивалось действие Иллиады Гомера. Прочувствуйте это мистическое место, в котором совершали подвиги герои Одиссеи и Иллиады. Демонстрация Троянского коня. в Айвалык. Ночлег в Стабмуле.</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span></span>&nbsp; Айвалык / Турция</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span>&nbsp; </span>1 день</p></div>
+        <p class="moto-text_system_7 days_desc_text" id="mydays_desc3"><span style="border-bottom: 2px solid #f6b230">День третий</span> <br> Перекусив у шведского стола, мы направимся в сторону пролива Дарданеллы до Гелиболу, чтобы совершить переезд на пароме с 
+        Европейской стороны в Азиатскую провинцию Чанаккале, где разворачивалось действие Иллиады Гомера. 
+        Только личным присутствием можно ощутить дух прошлого, когда совершались подвиги героями Одиссеи и Иллиады, и
+        своими глазами увидеть Троянского коня в Айвалык.</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span></span>&nbsp; Айвалык / Турция</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span>&nbsp; </span>1 день</p></div>
   </div>
           
       
@@ -192,7 +218,8 @@
       <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa" data-animation="">
         <div class="moto-widget-text-content moto-widget-text-editable">
           <p class="moto-text_system_7 days_desc_text" id="mydays_desc4">
-            <span style="border-bottom: 2px solid #f6b230">День четвертый</span> <br> Завтрак в отеле. Выезд из отеля с проездом через провинцию Измир (один из красивейших городов Эгейского региона). Посещение античного города Эфес и одного из семи чудес света – Храм Артемиды.  Ночлег в Кушадасы.
+            <span style="border-bottom: 2px solid #f6b230">День четвертый</span> <br> Утро начинается с плотного завтрака и после пятиминутки, мы вновь отправляемся на экскурсию через провинцию Измир (один из красивейших городов Эгейского региона) 
+            посетить античный город Эфес и одного из семи чудес света – Храм Артемиды. Под новыми впечатлениями и приятной усталость мы остаёмся на ночлег в Кушадасы.
           </p>
           <p class="moto-text_normal">&nbsp;</p>
           <p class="moto-text_system_13">
@@ -250,7 +277,9 @@
           
               <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa" data-animation="">
       <div class="moto-widget-text-content moto-widget-text-editable">
-        <p class="moto-text_system_7 days_desc_text" id="mydays_desc5"><span style="border-bottom: 2px solid #f6b230">День пятый</span> <br> Завтрак в отеле. Выезд в Памуккале к «Хлопковому замку». Посещение всемирно известных белоснежных траветиновых образований. При заселении в отель у Вас будет возможность принять термальные ванны. Ночлег в Памуккале.</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span></span>&nbsp; Памуккале / Турция</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span>&nbsp; </span>&nbsp;1 день</p></div>
+        <p class="moto-text_system_7 days_desc_text" id="mydays_desc5"><span style="border-bottom: 2px solid #f6b230">День пятый</span> <br> Утро начинается с завтрака в отеле, и все в предвкушении от новой экскурсионной точки - Памуккале! «Хлопковый замок»!.
+        Мы посетим поистине Чудо ПРИРОДЫ - всемирно известных белоснежных траветиновых образований, 
+        при заселении в отель у Вас будет возможность принять термальные ванны. После природного SPA мы остаёмся на Ночлег в Памуккале.</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span></span>&nbsp; Памуккале / Турция</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span>&nbsp; </span>&nbsp;1 день</p></div>
   </div>
           
       
@@ -316,7 +345,9 @@
           
               <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa" data-animation="">
       <div class="moto-widget-text-content moto-widget-text-editable">
-        <p class="moto-text_system_7 days_desc_text" id="mydays_desc6"><span style="border-bottom: 2px solid #f6b230">День шестой</span> <br> Завтрак в отеле. Выезд из Памуккале в Анталию (заселение в городе Анталия или Белек).</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span></span>&nbsp; Анталия  / Турция</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span>&nbsp; </span>1 день</p></div>
+        <p class="moto-text_system_7 days_desc_text" id="mydays_desc6"><span style="border-bottom: 2px solid #f6b230">День шестой</span> <br> Никто не отменял завтрак! Насладившись чудом природы и приняв природные SPA, мы выезжаем из Памуккале и направляемся в Анталию.
+        (заселение в городе Анталия или Белек). В этот день у Вас будет много времени, чтобы насладиться курортной жизнью в Анталии\Белек -
+        искупаться, позагорать, вкусить Турецкую кухню и наконец прикупиться разными сувенирами.</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span></span>&nbsp; Анталия  / Турция</p><p class="moto-text_system_13"><span class="moto-color2_3"><span class="fa fa-fw"></span>&nbsp; </span>1 день</p></div>
   </div>
           
       
@@ -380,7 +411,9 @@
       <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa" data-animation="">
         <div class="moto-widget-text-content moto-widget-text-editable">
           <p class="moto-text_system_7 days_desc_text" id="mydays_desc7">
-            <span style="border-bottom: 2px solid #f6b230">День седьмой</span> <br> Переезд на западное побережье (заселение на побережье Кемера). Посещение водопада Карпус Калдаран, Минарет Йивли. Возможность сделать покупки у ювелирных и кожаных производителей (до 14:00). Возвращение в отель выезд в аэропорт.
+            <span style="border-bottom: 2px solid #f6b230">День седьмой</span> <br> Вот и подходит к концу наш увлекательный тур, но и он очень насыщенный - мы совершим переезд на западное побережье,
+            чтобы посетить водопад - Карпус (заселение на побережье Кемера)! Ближе к вечеру будет ожидает Трансфер, который
+            доставить Вас к аэропорту. Возвращение домой.
           </p>
           <p class="moto-text_normal">&nbsp;</p>
           <p class="moto-text_system_13">
@@ -483,7 +516,7 @@
           </div>
       </div>
   </div>
-  <div class="moto-widget moto-widget-block moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image="">
+  <div class="moto-widget moto-widget-block moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto no-padding" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image="">
       
       <div class="container-fluid">
           <div class="row">
@@ -499,37 +532,38 @@
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="" id="gallery">
       <div class="moto-widget-text-content moto-widget-text-editable"><p style="text-align: center;" class="moto-text_system_6">Каждый день - Новое открытие!</p><p style="text-align: center;" class="moto-text_normal"><br></p><p style="text-align: center;" class="moto-text_normal"><!-- Exlore a different way to travel --><br></p></div>
-  </div><div data-widget-id="wid_1516187374_v69j67431" class="moto-widget moto-widget-spacer moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto "
+  </div>
+  <div data-widget-id="wid_1516187374_v69j67431" class="moto-widget moto-widget-spacer moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto "
       data-widget="spacer" data-preset="default" data-spacing="saaa" data-visible-on="mobile-v">
       <div class="moto-widget-spacer-block" style="height:10px"></div>
-  </div><div data-widget-id="wid_1516187202_mt9c8zvfj" class="moto-widget moto-widget-grid-gallery moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto  " data-widget="grid_gallery" data-preset="default" data-spacing="aaaa">
-              <div class="moto-widget-grid-gallery-items"  data-moto-grid-gallery-options='{&quot;rowHeight&quot;:340,&quot;fixedHeight&quot;:false,&quot;margins&quot;:20,&quot;lastRow&quot;:&quot;justify&quot;,&quot;showCaptions&quot;:true,&quot;enableLightbox&quot;:true,&quot;showCounter&quot;:true}'>
-                              <a  href="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-img1.jpg" class="moto-widget-grid-gallery-item">
-                      <img src="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-small1.jpg" alt="mt-1320-home-destination-small1.jpg" class="moto-widget-grid-gallery-image">
-                                                                          <div class="caption caption_html moto-widget-text ">
-                                  <p class="moto-text_system_7"><span class="moto-color5_5">The Grenadines</span></p>
-                              </div>
-                                                              </a>
-                              <a  href="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-img2.jpg" class="moto-widget-grid-gallery-item">
-                      <img src="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-small2.jpg" alt="mt-1320-home-destination-small2.jpg" class="moto-widget-grid-gallery-image">
-                                                                          <div class="caption caption_html moto-widget-text ">
-                                  <p class="moto-text_system_7"><span class="moto-color5_5">Barbados</span></p>
-                              </div>
-                                                              </a>
-                              <a  href="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-img3.jpg" class="moto-widget-grid-gallery-item">
-                      <img src="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-small3.jpg" alt="mt-1320-home-destination-small3.jpg" class="moto-widget-grid-gallery-image">
-                                                                          <div class="caption caption_html moto-widget-text ">
-                                  <p class="moto-text_system_7"><span class="moto-color5_5">Barbados</span></p>
-                              </div>
-                                                              </a>
-                              <a  href="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-img4.jpg" class="moto-widget-grid-gallery-item">
-                      <img src="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-small4.jpg" alt="mt-1320-home-destination-small4.jpg" class="moto-widget-grid-gallery-image">
-                                                                          <div class="caption caption_html moto-widget-text ">
-                                  <p class="moto-text_system_7"><span class="moto-color5_5">Republic of Cuba</span></p>
-                              </div>
-                                                              </a>
-                      </div>
-      </div></div>
+  </div>
+  <div class="row">
+    <div class="col-lg-6">
+      @foreach( $turkeys as $turk )
+      <a  href="images/turkey/gallery/turkia/{{$turk->img}}" class="moto-widget-grid-gallery-item" data-lightbox="roadtrip" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
+        <img src="{{ asset('images/turkey/05-turkey-istanbul-dervishes.jpg')}}" alt="05-turkey-istanbul-dervishes.jpg" class="moto-widget-grid-gallery-image mygallery-img" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
+          <div class="caption caption_html moto-widget-text ">
+            <p class="moto-text_system_7">
+              <span class="moto-color5_5">The Grenadines</span>
+            </p>
+          </div>
+      </a>
+      @endforeach
+    </div>
+    <div class="col-lg-6">
+      @foreach( $hotels as $hotel )
+      <a  href="images/turkey/gallery/turkia/{{$hotel->img}}" class="moto-widget-grid-gallery-item" data-lightbox="roadtrip">
+        <img src="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-destination-small1.jpg" alt="mt-1320-home-destination-small1.jpg" class="moto-widget-grid-gallery-image mygallery-img" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
+          <div class="caption caption_html moto-widget-text ">
+            <p class="moto-text_system_7">
+              <span class="moto-color5_5">The Hotels</span>
+            </p>
+          </div>
+      </a>
+      @endforeach
+    </div>
+  </div>
+</div>
 
                   
               
@@ -599,7 +633,7 @@
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-12 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p style="text-align: center;" class="moto-text_system_5"><span class="moto-color5_5">Откройте для себя всю Турцию вместе с Zeta Tour</span></p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal"><span class="moto-color5_5">Отправляемся в Великолепный Век 25 сентября!</span></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable" id="my-counter"><p style="text-align: center;" class="moto-text_system_5"><span class="moto-color5_5">Откройте для себя всю Турцию вместе с Zeta Tour</span></p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal"><span class="moto-color5_5">Отправляемся в Великолепный Век 25 сентября!</span></p></div>
   </div>
   <!-- <div data-widget-id="wid_1516188381_9pi3nb50f" class="moto-widget moto-widget-countdown moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto  " data-widget="countdown" data-on-expiry="stop" data-time="43201000" data-type="timer">
               <timer countdown="countdownTime" interval="1000" class="countdown-timer">
@@ -661,7 +695,7 @@
           </div>
       </div>
   </div>
-  <div class="moto-widget moto-widget-block moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image="2018/01/mt-1320-travel-step.png"><a class="moto-anchor" name="3 steps solution"></a>
+  <div class="moto-widget moto-widget-block moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto small-padding" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image="2018/01/mt-1320-travel-step.png"><a class="moto-anchor" name="3 steps solution"></a>
       
       <div class="container-fluid">
           <div class="row">
@@ -676,7 +710,7 @@
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-12 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p style="text-align: center;" class="moto-text_system_6">Бронируйте тур в 3 простых шага</p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal"><!-- Explain that your product, service or event can solve anything in 3 easy steps. --></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable" id="three-step"><p style="text-align: center;" class="moto-text_system_6">Бронируйте тур в 3 простых шага</p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal"><!-- Explain that your product, service or event can solve anything in 3 easy steps. --></p></div>
   </div></div>
 
                   
@@ -739,7 +773,7 @@
       
           
               <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p style="text-align: center;" class="moto-text_system_7">Шаг</p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal">Менеджер перезвонит Вам течении 3-х минут, и проинформируетоб этом уникальном туре!</p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p style="text-align: center;" class="moto-text_system_7">Шаг</p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal">Менеджер перезвонит Вам течении 3-х минут и проинформирует об этом уникальном туре!</p></div>
   </div>
           
       
@@ -783,7 +817,8 @@
   </div></div>
           </div>
       </div>
-  </div><div class="moto-widget moto-widget-block moto-bg-color5_3 moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto" data-widget="block" data-spacing="lala" style=""><a class="moto-anchor" name="featured product"></a>
+  </div>
+  <div class="moto-widget moto-widget-block moto-bg-color5_3 moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto small-padding" data-widget="block" data-spacing="lala" style=""><a class="moto-anchor" name="featured product"></a>
       
       <div class="container-fluid">
           <div class="row">
@@ -800,14 +835,15 @@
   </div><div class="moto-widget moto-widget-row__column moto-cell col-sm-5 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_6">Последние места по вкусной цене: <a class="a-discount"><span class="discount3">550$</span></a> <span class="my_price2">490$.</span><p class="moto-text_normal" style="font-size: 20px; color:#000;">В стоимость данного тура входит:</p><p class="moto-text_normal">Авиаперелет(туда: Шымкент - Стамбул, <br>Обратно: Анталия, Кемер - Стамбул - Шымкент)<br>Трансфер (Аэропорт - Отель - Аэропорт)<br> Проживание в 5-ти отелях 4* и 5*<br>Питание согласно концепции отелей<br>Сопровождение гида на протяжении тура<br>Переезды по экскурсионной программе.</p><!-- <p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_12">$49</p> --></div>
-  </div><div data-widget-id="wid_1516189427_bip8gn5dd" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button">
+      <div class="moto-widget-text-content moto-widget-text-editable" id="vkus-cena"><p class="moto-text_system_6">Последние места по вкусной цене: <a class="a-discount"><span class="discount3">550$</span></a> <span class="my_price2">490$.</span><p class="moto-text_normal" style="font-size: 20px; color:#000;">В стоимость данного тура входит:</p><p class="moto-text_normal">Авиаперелет(туда: Шымкент - Стамбул, <br>Обратно: Анталия, Кемер - Стамбул - Шымкент)<br>Трансфер (Аэропорт - Отель - Аэропорт)<br> Проживание в 5-ти отелях 4* и 5*<br>Питание согласно концепции отелей<br>Сопровождение гида на протяжении тура<br>Переезды по экскурсионной программе.</p><!-- <p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_12">$49</p> --></div>
+  </div>
+  <div data-widget-id="wid_1516189427_bip8gn5dd" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button">
               <a href="#contacts"   data-action="page" class="moto-widget-button-link moto-size-medium moto-link"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">ЗАБРОНИРОВАТЬ</span></a>
       </div></div><div class="moto-widget moto-widget-row__column moto-cell col-sm-5 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div data-widget-id="wid_1516189358_vkv5lw4b3" class="moto-widget moto-widget-image moto-preset-default moto-align-center moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto  " data-widget="image">
                           <span class="moto-widget-image-link">
-                  <img data-src="" class="moto-widget-image-picture lazyload" data-id="156" title="" alt="">
+                  <img data-src="mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-home-featured-products.png" class="moto-widget-image-picture lazyload" data-id="156" title="" alt="">
               </span>
               </div></div><div class="moto-widget moto-widget-row__column moto-cell col-sm-1 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
@@ -820,7 +856,7 @@
   </div></div>
           </div>
       </div>
-  </div><div class="moto-widget moto-widget-block moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image="2018/01/mt-1320-travel-faq.png"><a class="moto-anchor" name="faq"></a>
+  </div><div class="moto-widget moto-widget-block moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto small-padding" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image="2018/01/mt-1320-travel-faq.png"><a class="moto-anchor" name="faq"></a>
       
       <div class="container-fluid">
           <div class="row">
@@ -832,7 +868,7 @@
           <div class="row" data-container="container"><div class="moto-widget moto-widget-row__column moto-cell col-sm-12 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p style="text-align: center;" class="moto-text_system_6">Часто задаваемые вопросы</p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal">Если Вы не нашди свой вопрос, менеджер поможет Вам!</p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p style="text-align: center;" class="moto-text_system_6">Часто задаваемые вопросы</p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal">Если Вы не нашли свой вопрос, менеджер поможет Вам!</p></div>
   </div></div>
               
                   
@@ -932,7 +968,7 @@
       
   </div><div class="moto-widget moto-widget-row__column moto-cell col-sm-10 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
-  <div data-widget-id="wid_1516190236_xe26u9fy8" class="moto-widget moto-widget-image moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto  " data-widget="image">
+  <div data-widget-id="wid_1516190236_xe26u9fy8" class="moto-widget moto-widget-image moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto  " data-widget="image" id="my-description">
                           <span class="moto-widget-image-link">
                   <img data-src="{{ asset('images/turkey/takogo.jpg') }}" class="moto-widget-image-picture lazyload" data-id="146" title="" alt="" style="border-radius: 300px;">
               </span>
@@ -955,7 +991,7 @@
   </div>
   
   <!--Contacts-->
-  <div class="moto-widget moto-widget-block moto-bg-color5_3 moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto" data-widget="block" data-spacing="lala" style="background-image:url(mt-demo/66300/66367/mt-content/uploads/2018/01/mt-1320-travel-contacts.png);background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image="2018/01/mt-1320-travel-contacts.png"><a class="moto-anchor" name="contacts"></a>
+  <div class="moto-widget moto-widget-block moto-bg-color5_3 moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto small-padding" data-widget="block" data-spacing="lala" style="background-image:url();background-position:top;background-repeat:no-repeat;background-size:contain;" data-bg-image="2018/01/mt-1320-travel-contacts.png"><a class="moto-anchor" name="contacts"></a>
       
       <div class="container-fluid">
           <div class="row">

@@ -16,14 +16,25 @@
   <div data-widget-id="wid_1516184793_846jv7na6" class="mynavigation moto-widget moto-widget-menu moto-preset-default moto-align-right moto-align-center_mobile-h moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-preset="default" data-widget="menu" style="">
               <a href="/" class="moto-widget-menu-toggle-btn"><i class="moto-widget-menu-toggle-btn-icon fa fa-bars"></i></a>
           <ul class="moto-widget-menu-list moto-widget-menu-list_horizontal">
-              <li class="moto-widget-menu-item">
-      <a href="#gallery"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">ГАЛЕРЕЯ</a>
-          </li><li class="moto-widget-menu-item">
-      <a href="#pricing"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">МАРШРУТ</a>
-          </li>
-      <li class="moto-widget-menu-item">
-      <a href="#pricing"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">ОПИСАНИЕ</a>
-          </li>
+            <li class="moto-widget-menu-item">
+              <a href="#vkus-cena"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">Что входит в стоимость</a>
+            </li>
+            <li class="moto-widget-menu-item">
+              <a href="#three-step"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">Как забронировать</a>
+            </li>
+            <li class="moto-widget-menu-item">
+              <a href="#my-counter"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">Когда вылет</a>
+            </li>
+            <li class="moto-widget-menu-item">
+              <a href="#pricing"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">МАРШРУТ</a>
+            </li>
+            <li class="moto-widget-menu-item">
+              <a href="#my-description"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">ОПИСАНИЕ</a>
+            </li>
+            <li class="moto-widget-menu-item">
+              <a href="#gallery"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">ГАЛЕРЕЯ</a>
+            </li>
+          
           <li class="moto-widget-menu-item">
       <a href="#contacts"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-active moto-link">КОНТАКТЫ</a>
           </li><li class="moto-widget-menu-item moto-widget-menu-item-has-submenu">

@@ -1,6 +1,8 @@
 p.days_desc_text{
 	height: 80px;
 	overflow: hidden;
+	font-size: 16px;
+	font-weight: 400;
 }
 
 span.myread_more1,
@@ -14,6 +16,7 @@ span.myread_more7{
 
 .moto-widget-menu-item a.moto-widget-menu-link{
 	font-weight: bold !important;
+	text-transform: uppercase !important;
 }
 
 .mynavigation{
@@ -90,6 +93,46 @@ span.myread_more7{
 	font-size: 2rem;
 }
 
+.mygallery-img{
+	border-radius: 15px;
+	width: 100%;
+	max-width: 100%;
+}
+
+div.no-padding{
+	padding-top: 0;
+	padding-bottom: 50px;
+}
+
+div.small-padding{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+/*menu*/
+a.moto-widget-menu-link{
+	letter-spacing: initial;
+	font-size: 1.2rem;
+	text-align: center !important;
+}
+.moto-widget-menu ul.moto-widget-menu-list{
+	display: block;
+	text-align: center;
+	/*justify-content: center;
+	align-items: center;*/
+}
+
+li.moto-widget-menu-item{
+	margin-left: 30px !important;
+}
+/*end menu*/
+
+.svg-inline--fa{
+	height: 20px;
+	color: #fff;
+}
+
 /*mobile*/
 
 @media (max-width: 991.98px) {
@@ -103,7 +146,9 @@ span.myread_more7{
 	}
 
 	p.days_desc_text{
-		height: 70px;
+		height: 80px;
+		font-size: 16px;
+		font-weight: 400;
 	}
 
 	div.flag{
@@ -125,5 +170,9 @@ span.myread_more7{
 
 	span.mymoto-color5_5{
 		font-size: 1.5rem;
+	}
+
+	.moto-widget-menu ul.moto-widget-menu-list{
+		display: none;
 	}
 }

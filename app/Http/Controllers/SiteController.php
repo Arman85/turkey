@@ -6,13 +6,18 @@ use Illuminate\Http\Request;
 
 use Mail;
 use App\Mail\SendMail;
+use App\Turk;
+use App\Hotel;
 
 class SiteController extends Controller
 {
     //
     public function index ()
     {
-    	return view('frontend.index');
+        $turkeys = Turk::all();
+        $hotels = Hotel::all();
+        //dd($turkeys);
+    	return view('frontend.index', compact('turkeys', 'hotels'));
     }
 
     public function sendmail( Request $request )
