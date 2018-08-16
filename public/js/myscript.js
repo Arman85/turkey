@@ -127,6 +127,18 @@ $(document).ready(function(){
 		}
 	});
 
+	// Якорь для формы обратной связи
+	if (size < '991'){
+		$('.contacts_anchor_mobile').attr("id", "contacts");
+		// $('.price_only_august').css({
+		// 	"background-color" : "rgba(40,36,52,.5)",
+		// 	"padding" : "5px",
+		// 	"border-radius" : "8px"
+		// });
+	}
+	else{
+		$('.contacts_anchor_desktop').attr("id", "contacts");
+	}
 
 
 });	

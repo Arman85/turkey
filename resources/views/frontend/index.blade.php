@@ -541,6 +541,9 @@
     <div class="col-lg-6">
       @foreach( $turkeys as $turk )
       <a  href="images/turkey/gallery/turkia/{{$turk->img}}" class="moto-widget-grid-gallery-item" data-lightbox="roadtrip" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
+      <!-- <p class="moto-text_system_7">
+        <span class="moto-color5_5">Турция</span>
+      </p> -->
         <img src="{{ asset('images/turkey/05-turkey-istanbul-dervishes.jpg')}}" alt="05-turkey-istanbul-dervishes.jpg" class="moto-widget-grid-gallery-image mygallery-img" @if ($loop->index == 0) style="display:block" @else style="display:none" @endif>
           <div class="caption caption_html moto-widget-text ">
             <p class="moto-text_system_7">
@@ -593,11 +596,11 @@
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-6 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10">Горящее предложение</p><p class="moto-text_system_5"><span class="moto-color5_5">Цена только в августе <a class="a-discount"><span class="discount2">550$</span></a> <span class="my_price">490$.</span></span></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10">Горящее предложение</p><p class="moto-text_system_5"><span class="moto-color5_5">Цена только в августе <a class="a-discount"><span class="discount2 ">550$</span></a> <span class="my_price">490$.</span></span></p></div>
   </div><div data-widget-id="wid_1516187565_ci93awa6z" class="moto-widget moto-widget-divider moto-preset-3 moto-align-left moto-spacing-top-small moto-spacing-right-medium moto-spacing-bottom-small moto-spacing-left-auto  " data-widget="divider_horizontal" data-preset="3">
       <hr class="moto-widget-divider-line" style="max-width:100%;width:90%;">
   </div><div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal"><span class="moto-color5_5" style="text-shadow: 1px 1px 1px #000, -1px -1px 1px #000; color: #f6b230; font-weight: bold">490$ / 1 Человек / 7 Дней / 6 Городов</span></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal"><span class="moto-color5_5 price_only_august" style="text-shadow: 1px 1px 1px #000, -1px -1px 1px #000; color: #f6b230; font-weight: bold">490$ / 1 Человек / 7 Дней / 6 Городов</span></p></div>
   </div><div data-widget-id="wid_1516187613_qp0fx98sv" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button">
               <a href="#contacts"   data-action="page" class="moto-widget-button-link moto-size-medium moto-link"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label" style="font-size: 2rem">Хочу!</span></a>
       </div></div><div class="moto-widget moto-widget-row__column moto-cell col-sm-6 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
@@ -633,7 +636,7 @@
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-12 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable" id="my-counter"><p style="text-align: center;" class="moto-text_system_5"><span class="moto-color5_5">Откройте для себя всю Турцию вместе с Zeta Tour</span></p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal"><span class="moto-color5_5">Отправляемся в Великолепный Век 25 сентября!</span></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable" id="my-counter"><p style="text-align: center;" class="moto-text_system_5"><span class="moto-color5_5 yellow_text">Откройте для себя всю Турцию вместе с Zeta Tour</span></p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal"><span class="moto-color5_5 dark_text">Отправляемся в Великолепный Век 25 сентября!</span></p></div>
   </div>
   <!-- <div data-widget-id="wid_1516188381_9pi3nb50f" class="moto-widget moto-widget-countdown moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto  " data-widget="countdown" data-on-expiry="stop" data-time="43201000" data-type="timer">
               <timer countdown="countdownTime" interval="1000" class="countdown-timer">
@@ -893,48 +896,48 @@
       <div class="moto-widget-accordion__wrapper">
                                       <div data-widget-id="wid__accordion_item__5b6ac2998a680" class="moto-widget moto-widget-accordion__item moto-widget-accordion__item_collapse-icon-right  moto-widget-accordion__item_open" data-widget="accordion.item">
       <div class="moto-widget-accordion__header" data-widget-id="wid__accordion_item__5b6ac2998a680">
-                  <span class="moto-widget-accordion__header-item moto-widget-accordion__header-title">How can I get to the venue?</span>
+                  <span class="moto-widget-accordion__header-item moto-widget-accordion__header-title"> Это групповой тур?</span>
           <span class="moto-widget-accordion__header-item moto-widget-accordion__collapse-icon fa fa-fw" aria-hidden="true"></span>    </div>
       <div class="moto-widget-accordion__content-wrapper" style="display: block;">
           <div class="moto-widget-accordion__content">
                                                   <div data-widget-id="wid__text__5b6ac2998a93d" class="moto-widget moto-widget-text moto-preset-default  moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal">The map and Contact details are listed within the contact information.You will also receive a confirmation email with location map.</p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal">Да, это групповой экскурсионный тур, состоящий из 40 человек, передвижение по маршруту будет осуществляться на комфортабельном автобусе с кондиционером, в каждой конечной точке автобус будет останавливаться на ночлег в отеле. Вам не нужно будет ночевать внутри автобуса.</p></div>
   </div>
                                       </div>
       </div>
   </div>
                                                   <div data-widget-id="wid__accordion_item__5b6ac2998abd8" class="moto-widget moto-widget-accordion__item moto-widget-accordion__item_collapse-icon-right " data-widget="accordion.item">
       <div class="moto-widget-accordion__header" data-widget-id="wid__accordion_item__5b6ac2998abd8">
-                  <span class="moto-widget-accordion__header-item moto-widget-accordion__header-title">What payment types do you accept?</span>
+                  <span class="moto-widget-accordion__header-item moto-widget-accordion__header-title">Есть ли какие-либо ограничения?</span>
           <span class="moto-widget-accordion__header-item moto-widget-accordion__collapse-icon fa fa-fw" aria-hidden="true"></span>    </div>
       <div class="moto-widget-accordion__content-wrapper" style="display: none;">
           <div class="moto-widget-accordion__content">
                                                   <div data-widget-id="wid__text__5b6ac2998ace3" class="moto-widget moto-widget-text moto-preset-default  moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal">All payments are processed via PayPal. You may also pay at the time of event. But please reserve your seat by contacting us directly.</p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal">Существует лишь одно ограничение – возрастное, 12+ .</p></div>
   </div>
                                       </div>
       </div>
   </div>
                                                   <div data-widget-id="wid__accordion_item__5b6ac2998af4c" class="moto-widget moto-widget-accordion__item moto-widget-accordion__item_collapse-icon-right " data-widget="accordion.item">
       <div class="moto-widget-accordion__header" data-widget-id="wid__accordion_item__5b6ac2998af4c">
-                  <span class="moto-widget-accordion__header-item moto-widget-accordion__header-title">What about accommodation?</span>
+                  <span class="moto-widget-accordion__header-item moto-widget-accordion__header-title">Можно ли будет отлучаться от основной группы?</span>
           <span class="moto-widget-accordion__header-item moto-widget-accordion__collapse-icon fa fa-fw" aria-hidden="true"></span>    </div>
       <div class="moto-widget-accordion__content-wrapper" style="display: none;">
           <div class="moto-widget-accordion__content">
                                                   <div data-widget-id="wid__text__5b6ac2998b042" class="moto-widget moto-widget-text moto-preset-default  moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal">The cost of the hotel accommodation and travel is not included in the event fee. For corporate accommodation rate, please contact us directly.</p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal">Во время экскурсионного маршрута – нет, но ежедневно Вам будет предоставлено личное время по завершению экскурсий, когда Вы можете отдохнуть в отеле, прогуляться по улицам, сходить на пляж, отведать местную кухню в близлежащих заведениях.</p></div>
   </div>
                                       </div>
       </div>
   </div>
                                                   <div data-widget-id="wid__accordion_item__5b6ac2998b272" class="moto-widget moto-widget-accordion__item moto-widget-accordion__item_collapse-icon-right " data-widget="accordion.item">
       <div class="moto-widget-accordion__header" data-widget-id="wid__accordion_item__5b6ac2998b272">
-                  <span class="moto-widget-accordion__header-item moto-widget-accordion__header-title">Can I get a refund on my tickets?</span>
+                  <span class="moto-widget-accordion__header-item moto-widget-accordion__header-title">Возможно ли продлить тур и остаться в Турции?</span>
           <span class="moto-widget-accordion__header-item moto-widget-accordion__collapse-icon fa fa-fw" aria-hidden="true"></span>    </div>
       <div class="moto-widget-accordion__content-wrapper" style="display: none;">
           <div class="moto-widget-accordion__content">
                                                   <div data-widget-id="wid__text__5b6ac2998b3c0" class="moto-widget moto-widget-text moto-preset-default  moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal">All tickets are non-refundable unless the event is cancelled by us, in which case we will always make a full refund.</p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal">Для данного тура выкуплены невозвратные билеты в обе стороны, на определённые даты, поэтому перенести дату обратного вылета не получится. Вам придётся отдельно покупать билеты в Шымкент на желаемую Вами дату.</p></div>
   </div>
                                       </div>
       </div>
@@ -1005,7 +1008,7 @@
                   
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-12 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
-  <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
+  <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto contacts_anchor_desktop" data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
       <div class="moto-widget-text-content moto-widget-text-editable"><p style="text-align: center;" class="moto-text_system_6">Закажите обратный звонок</p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal">Бронируйте уже сейчас</p></div>
   </div></div>
 
@@ -1024,7 +1027,7 @@
   </div><div class="moto-widget moto-widget-row__column moto-cell col-sm-5 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="maaa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">Телефон</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_normal"><a target="_self" data-action="url" class="moto-link" href="callto: #">+7 (778) 444 77 74</a></p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_7">Адрес</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_normal">г. Шымкент<br>улица Турысова 9</p><p class="moto-text_normal">&nbsp;</p><p id="contacts" class="moto-text_system_7">Email</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_normal"><a href="mailto:contacts@motocms.com" data-action="mail" class="moto-link">info@zetatour.kz</a></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">Телефон</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_normal"><a target="_self" data-action="url" class="moto-link" href="callto: #">+7 (778) 444 77 74</a></p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_7">Адрес</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_normal">г. Шымкент<br>улица Турысова 9</p><p class="moto-text_normal">&nbsp;</p><p  class="moto-text_system_7 contacts_anchor_mobile">Email</p><p class="moto-text_normal">&nbsp;</p><p class="moto-text_normal"><a href="mailto:contacts@motocms.com" data-action="mail" class="moto-link">info@zetatour.kz</a></p></div>
   </div></div><div class="moto-widget moto-widget-row__column moto-cell col-sm-5 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div data-widget-id="wid_1516193346_npqhcmrtu" class="moto-widget moto-widget-contact_form moto-preset-default moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto  " data-preset="default" data-widget="contact_form" data-spacing="maaa">
