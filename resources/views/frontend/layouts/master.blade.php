@@ -34,7 +34,7 @@
     <!-- /Yandex.Metrika counter -->
     <meta charset="utf-8">
     <meta name="csrf-token" content="{{ csrf_token() }}" />
-    <title>Великолепный век</title>
+    <title>6 городов Турции за 7 дней | Великолепный век</title>
     <link rel="icon" href="mt-demo/66300/66367/mt-content/uploads/2018/01/favicon1.png" type="image/png" />
 
 
