@@ -133,5 +133,12 @@
           'wrapAround': true
         })
     </script>
+
+    <!-- RedConnect -->
+    <script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
+    src="https://web.redhelper.ru/service/main.js?c=mtris2"></script>
+    <div style="display: none"><a class="rc-copyright" 
+    href="http://redconnect.ru">Сервис звонка с сайта RedConnect</a></div>
+    <!--/RedConnect -->
   </body>
 </html>
