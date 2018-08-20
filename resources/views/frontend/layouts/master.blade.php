@@ -133,7 +133,7 @@
           'wrapAround': true
         })
     </script>
-
+    <!-- RedConnect -->
     <!-- RedConnect -->
     <script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
     src="https://web.redhelper.ru/service/main.js?c=mtris2"></script>
