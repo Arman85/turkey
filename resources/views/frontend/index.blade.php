@@ -26,12 +26,18 @@
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-5 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="row.column" data-container="container" data-spacing="aaaa" style="background-color: rgba(23,99,110, .5);border-radius: 15px;padding: 15px;">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10">Уникальный тур</p><p class="moto-text_system_5"><span class="moto-color5_5">Турция за <a class="a-discount"><span class="discount">550$</span></a> <span class="my_price1">490$.</span> на 7 дней.</span></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10 header-title">Уникальный тур</p><p class="moto-text_system_5"><span class="moto-color5_5">Турция за <!-- <a class="a-discount"><span class="discount">550$</span></a> --> <span class="my_price1">550$.</span> на 7 дней.</span></p></div>
   </div><div data-widget-id="wid_1516185249_e4t6gk8j9" class="moto-widget moto-widget-divider moto-preset-3 moto-align-left moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto  " data-widget="divider_horizontal" data-preset="3">
       <hr class="moto-widget-divider-line" style="max-width:100%;width:100%;">
-  </div><div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-small moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sssa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal"><span class="moto-color5_5">Великолепный век!</span></p></div>
-  </div><div data-widget-id="wid_1516185336_gp2vt8md4" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-align-center_mobile-h moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button">
+  </div>
+  <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-small moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sssa" data-animation="">
+      <div class="moto-widget-text-content moto-widget-text-editable">
+        <p class="moto-text_normal">
+          <span class="moto-color5_5 header-title-sec">Великолепный век!</span>
+        </p>
+      </div>
+  </div>
+  <div data-widget-id="wid_1516185336_gp2vt8md4" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-align-center_mobile-h moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button">
               <a href="#contacts"   data-action="page" class="moto-widget-button-link moto-size-medium moto-link" style="background-color: #F6B230"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">ЗАБРОНИРОВАТЬ</span></a>
       </div></div><div class="moto-widget moto-widget-row__column moto-cell col-sm-7 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
@@ -596,7 +602,7 @@
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-6 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10">Горящее предложение</p><p class="moto-text_system_5"><span class="moto-color5_5">Цена только в августе <a class="a-discount"><span class="discount2 ">550$</span></a> <span class="my_price">490$.</span></span></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10">Горящее предложение</p><p class="moto-text_system_5"><span class="moto-color5_5">Цена только в октябре <!-- <a class="a-discount"><span class="discount2 ">550$</span></a> --> <span class="my_price">550$.</span></span></p></div>
   </div><div data-widget-id="wid_1516187565_ci93awa6z" class="moto-widget moto-widget-divider moto-preset-3 moto-align-left moto-spacing-top-small moto-spacing-right-medium moto-spacing-bottom-small moto-spacing-left-auto  " data-widget="divider_horizontal" data-preset="3">
       <hr class="moto-widget-divider-line" style="max-width:100%;width:90%;">
   </div><div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">
@@ -636,7 +642,15 @@
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-12 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable" id="my-counter"><p style="text-align: center;" class="moto-text_system_5"><span class="moto-color5_5 yellow_text">Откройте для себя всю Турцию вместе с Zeta Tour</span></p><p style="text-align: center;" class="moto-text_normal">&nbsp;</p><p style="text-align: center;" class="moto-text_normal"><span class="moto-color5_5 dark_text">Отправляемся в Великолепный Век 25 сентября!</span></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable" id="my-counter">
+        <p style="text-align: center;" class="moto-text_system_5">
+          <span class="moto-color5_5 yellow_text">Откройте для себя всю Турцию вместе с Zeta Tour</span>
+        </p>
+        <p style="text-align: center;" class="moto-text_normal">&nbsp;</p>
+        <p style="text-align: center;" class="moto-text_normal">
+          <span class="moto-color5_5 dark_text title_count">Отправляемся в Великолепный Век 09 и 23 октября!</span>
+        </p>
+      </div>
   </div>
   <!-- <div data-widget-id="wid_1516188381_9pi3nb50f" class="moto-widget moto-widget-countdown moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto  " data-widget="countdown" data-on-expiry="stop" data-time="43201000" data-type="timer">
               <timer countdown="countdownTime" interval="1000" class="countdown-timer">
@@ -688,6 +702,8 @@
   </div> -->
 
 <div class="eTimer" style="width: 100%; display: flex; justify-content: center; align-items: center; color: #f6b230"></div>
+  <br>
+  <div class="eTimer2" style="width: 100%; display: flex; justify-content: center; align-items: center; color: #f6b230"></div>
 </div>
 
                   
@@ -838,7 +854,17 @@
   </div><div class="moto-widget moto-widget-row__column moto-cell col-sm-5 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable" id="vkus-cena"><p class="moto-text_system_6">Последние места по вкусной цене: <a class="a-discount"><span class="discount3">550$</span></a> <span class="my_price2">490$.</span><p class="moto-text_normal" style="font-size: 20px; color:#000;">В стоимость данного тура входит:</p><p class="moto-text_normal">Авиаперелет(туда: Шымкент - Стамбул, <br>Обратно: Анталия, Кемер - Стамбул - Шымкент)<br>Трансфер (Аэропорт - Отель - Аэропорт)<br> Проживание в 5-ти отелях 4* и 5*<br>Питание согласно концепции отелей<br>Сопровождение гида на протяжении тура<br>Переезды по экскурсионной программе.</p><!-- <p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_12">$49</p> --></div>
+      <div class="moto-widget-text-content moto-widget-text-editable" id="vkus-cena">
+        <p class="moto-text_system_6">Последние места по вкусной цене: 
+          <!-- <a class="a-discount">
+            <span class="discount3">550$</span>
+          </a>  -->
+
+          <span class="my_price2">550$.</span>
+          <p class="moto-text_normal" style="font-size: 20px; color:#000;">В стоимость данного тура входит:</p>
+          <p class="moto-text_normal">Авиаперелет(туда: Шымкент - Стамбул, <br>Обратно: Анталия, Кемер - Стамбул - Шымкент)<br>Трансфер (Аэропорт - Отель - Аэропорт)<br> Проживание в 5-ти отелях 4* и 5*<br>Питание согласно концепции отелей<br>Сопровождение гида на протяжении тура<br>Переезды по экскурсионной программе.</p><!-- <p class="moto-text_normal">&nbsp;</p><p class="moto-text_system_12">$49</p> -->
+        </p>  
+      </div>
   </div>
   <div data-widget-id="wid_1516189427_bip8gn5dd" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button">
               <a href="#contacts"   data-action="page" class="moto-widget-button-link moto-size-medium moto-link"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">ЗАБРОНИРОВАТЬ</span></a>

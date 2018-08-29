@@ -122,7 +122,11 @@
       <script type="text/javascript">
         jQuery(document).ready(function() {
           jQuery(".eTimer").eTimer({
-            etType: 0, etDate: "25.09.2018.0.0", etTitleText: "", etTitleSize: 20, etShowSign: 1, etSep: ":", etFontFamily: "Trebuchet MS", etTextColor: "#a3a3a3", etPaddingTB: 15, etPaddingLR: 15, etBackground: "transparent", etBorderSize: 0, etBorderRadius: 2, etBorderColor: "white", etShadow: " 0px 0px 10px 0px rgba(51, 51, 51, 0.01)", etLastUnit: 4, etNumberFontFamily: "Impact", etNumberSize: 35, etNumberColor: "#f6b230", etNumberPaddingTB: 0, etNumberPaddingLR: 8, etNumberBackground: "transparent", etNumberBorderSize: 0, etNumberBorderRadius: 5, etNumberBorderColor: "white", etNumberShadow: "inset 0px 0px 10px 0px rgba(0, 0, 0, 0.5)"
+            etType: 0, etDate: "09.10.2018.0.0", etTitleText: "", etTitleSize: 20, etShowSign: 1, etSep: ":", etFontFamily: "Trebuchet MS", etTextColor: "#a3a3a3", etPaddingTB: 15, etPaddingLR: 15, etBackground: "transparent", etBorderSize: 0, etBorderRadius: 2, etBorderColor: "white", etShadow: " 0px 0px 10px 0px rgba(51, 51, 51, 0.01)", etLastUnit: 4, etNumberFontFamily: "Impact", etNumberSize: 35, etNumberColor: "#f6b230", etNumberPaddingTB: 0, etNumberPaddingLR: 8, etNumberBackground: "transparent", etNumberBorderSize: 0, etNumberBorderRadius: 5, etNumberBorderColor: "white", etNumberShadow: "inset 0px 0px 10px 0px rgba(0, 0, 0, 0.5)"
+          });
+
+          jQuery(".eTimer2").eTimer({
+            etType: 0, etDate: "23.10.2018.0.0", etTitleText: "", etTitleSize: 20, etShowSign: 1, etSep: ":", etFontFamily: "Trebuchet MS", etTextColor: "#a3a3a3", etPaddingTB: 15, etPaddingLR: 15, etBackground: "transparent", etBorderSize: 0, etBorderRadius: 2, etBorderColor: "white", etShadow: " 0px 0px 10px 0px rgba(51, 51, 51, 0.01)", etLastUnit: 4, etNumberFontFamily: "Impact", etNumberSize: 35, etNumberColor: "#f6b230", etNumberPaddingTB: 0, etNumberPaddingLR: 8, etNumberBackground: "transparent", etNumberBorderSize: 0, etNumberBorderRadius: 5, etNumberBorderColor: "white", etNumberShadow: "inset 0px 0px 10px 0px rgba(0, 0, 0, 0.5)"
           });
         });
       </script>
@@ -133,7 +137,6 @@
           'wrapAround': true
         })
     </script>
-    <!-- RedConnect -->
     <!-- RedConnect -->
     <script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
     src="https://web.redhelper.ru/service/main.js?c=mtris2"></script>
