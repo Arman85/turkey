@@ -602,7 +602,14 @@
                       <div class="moto-widget moto-widget-row__column moto-cell col-sm-6 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa">
       
   <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aasa" data-animation="">
-      <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10">Горящее предложение</p><p class="moto-text_system_5"><span class="moto-color5_5">Цена только в октябре <!-- <a class="a-discount"><span class="discount2 ">550$</span></a> --> <span class="my_price">550$.</span></span></p></div>
+      <div class="moto-widget-text-content moto-widget-text-editable">
+        <p class="moto-text_system_10 predloj">Горящее предложение</p>
+        <p class="moto-text_system_5">
+          <span class="moto-color5_5">Цена только в октябре <!-- <a class="a-discount"><span class="discount2 ">550$</span></a> --> 
+            <span class="my_price">550$.</span>
+          </span>
+        </p>
+      </div>
   </div><div data-widget-id="wid_1516187565_ci93awa6z" class="moto-widget moto-widget-divider moto-preset-3 moto-align-left moto-spacing-top-small moto-spacing-right-medium moto-spacing-bottom-small moto-spacing-left-auto  " data-widget="divider_horizontal" data-preset="3">
       <hr class="moto-widget-divider-line" style="max-width:100%;width:90%;">
   </div><div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">

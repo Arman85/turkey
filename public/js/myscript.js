@@ -144,6 +144,7 @@ $(document).ready(function(){
 		$(".title_count").css({"background-color" : "rgba(22,83,149,.3)", "border-radius" : "5px", "padding" : "3px 5px"});
 		$("p.header-title").css({"font-size" : "2.5rem"});
 		$("span.header-title-sec").css({"font-size" : "2.5rem"});
+		$(".predloj").css({"font-size" : "2rem"});
 	}
 
 
