@@ -605,7 +605,7 @@
       <div class="moto-widget-text-content moto-widget-text-editable">
         <p class="moto-text_system_10 predloj">Горящее предложение</p>
         <p class="moto-text_system_5">
-          <span class="moto-color5_5">Цена только в октябре <!-- <a class="a-discount"><span class="discount2 ">550$</span></a> --> 
+          <span class="moto-color5_5">Цена на октябрь <!-- <a class="a-discount"><span class="discount2 ">550$</span></a> --> 
             <span class="my_price">550$.</span>
           </span>
         </p>
